@@ -20,6 +20,16 @@ EasyShop is an e-commerce website that provides a seamless shopping experience f
 - **Shopping Cart**: Users can add items to their cart and review them before checkout.
 - **Admin Management**: Admins can add new items to the shop, manage their quantities, and remove items as needed. They can also manage user data for better user experience.
 
+
+## Screenshot 
+![Screenshot 2024-02-16 223904](https://github.com/abhay087/EasyShop/assets/76240235/e1afd42f-5e79-40d4-80ce-f0242316a8f8)
+![Screenshot 2024-02-16 223919](https://github.com/abhay087/EasyShop/assets/76240235/80562303-627e-4c06-9da6-651373d49f80)
+![Screenshot 2024-02-16 224005](https://github.com/abhay087/EasyShop/assets/76240235/3588fcb8-7140-42a5-afe2-5ca0073bd0ce)
+![Screenshot 2024-02-16 224027](https://github.com/abhay087/EasyShop/assets/76240235/940bcaea-2a90-4159-b542-4db5a0936b1d)
+![Screenshot 2024-02-16 224057](https://github.com/abhay087/EasyShop/assets/76240235/4f89037a-f9fb-4230-bb9d-7f83dbe1a047)
+
+
+
 ## Future Improvements
 
 - [ ] Implement a rating and review system for the products.
